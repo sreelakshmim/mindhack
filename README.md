@@ -1,0 +1,2 @@
+# mindhack
+first repository
